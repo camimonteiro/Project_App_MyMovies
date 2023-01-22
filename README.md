@@ -16,9 +16,9 @@
 
 <h2 id="screenshots">Screenshots 📸</h2>
 
-<img src="" width="255">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="255">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" width="255"><br>
+<img src="https://raw.githubusercontent.com/camimonteiro/Project_App_MyMovies/main/Screenshots/App%20MyMovies%20-%20Screenshots.png" width="80%" height="50%"><br>
+
+<img src="https://github.com/camimonteiro/Project_App_MyMovies/blob/main/Screenshots/App%20MyMovies%20-%20Screenshots.gif?raw=true" width="80%" height="50%"><br>
 
 <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
 
