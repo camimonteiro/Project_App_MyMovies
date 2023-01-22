@@ -12,7 +12,10 @@
 <img src="https://raw.githubusercontent.com/camimonteiro/Project_App-MeuIMC/main/img-readme/100%25.png" height="40em"><br>
 
 <h2 id="sobre">Sobre o projeto 🔎</h2>
-<p>Texto</p>
+<p>O App MyMovies é um app simples que contém apenas uma lista de filmes e séries. Possui uma única tela (view) com uma tableView com várias informações de filmes e séries, como: capa, título, gênero e avaliação. O app consome a API Maze TV (que nos fornece a listagem dos filmes e séries e as informações sobre eles), foi construido com viewcode e na arquitetura MVC.<br>
+  
+Para este projeto apenas construi a interface do app (tela), toda a lógica de request e service estava previamente configurada no projeto base.<br>
+Esse App foi desenvolvido para fins educativos por meio da live coding da Attekita Dev.</p>
 
 <h2 id="screenshots">Screenshots 📸</h2>
 
