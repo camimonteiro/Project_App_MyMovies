@@ -21,10 +21,4 @@ extension ViewCode {
         setupConstraints()
         applyAdditionalChanges()
     }
-
-    func buildHierarchy() {}
-
-    func setupConstraints() {}
-
-    func applyAdditionalChanges() {}
 }
